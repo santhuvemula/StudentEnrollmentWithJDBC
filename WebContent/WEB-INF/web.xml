@@ -8,7 +8,7 @@
   
   <servlet>
   	<servlet-name>studentJDBCServlet</servlet-name>
-  	<servlet-class>com.meygam.controller.StudentController</servlet-class>
+  	<servlet-class>com.github.elizabetht.controller.StudentController</servlet-class>
   </servlet>
   
   <servlet-mapping>
