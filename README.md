@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudentEnrollmentWithJDBC
 # README #
 
@@ -44,3 +45,6 @@ mvn clean install
 
 * Repo owner or admin
 * Other community or team contact
+=======
+# StudentEnrollmentWithJDBC
+>>>>>>> af25b233032967d7ab2b32fec3d4c3d360af16a7
